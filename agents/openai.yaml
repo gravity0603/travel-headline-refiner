@@ -1,0 +1,4 @@
+interface:
+  display_name: "旅行标题优化助手"
+  short_description: "按参考标题风格优化旅行风光类内容标题"
+  default_prompt: "Use $travel-headline-refiner to rewrite these travel headlines in the reference style."
